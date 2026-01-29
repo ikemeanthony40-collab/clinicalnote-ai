@@ -1,4 +1,6 @@
 # ClinicalNote AI Assistant
+## 🚀 [**TRY THE LIVE DEMO!**](https://huggingface.co/spaces/ikemeanthony/hai-def-demo)
+   [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Hugging_Face-yellow)](https://huggingface.co/spaces/ikemeanthony/hai-def-demo)
 
 [![MedGemma](https://img.shields.io/badge/Powered%20by-MedGemma-blue)](https://developers.google.com/health-ai-developer-foundations)
 [![Python](https://img.shields.io/badge/Python-3.10+-green)](https://www.python.org/)
