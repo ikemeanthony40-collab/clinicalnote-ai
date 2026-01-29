@@ -1,16 +1,10 @@
-# ClinicalNote AI Assistant
-   ## 🚀 [**TRY THE LIVE DEMO!**](https://huggingface.co/spaces/ikemeanthony/hai-def-demo)  
-   [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Hugging_Face-yellow)](https://huggingface.co/spaces/ikemeanthony/hai-def-demo)
-   
-[![MedGemma](https://img.shields.io/badge/Powered%20by-MedGemma-blue)](https://developers.google.com/health-ai-developer-foundations)
-[![Python](https://img.shields.io/badge/Python-3.10+-green)](https://www.python.org/)
-[![Competition](https://img.shields.io/badge/MedGemma-Impact%20Challenge-orange)](https://www.kaggle.com/competitions/med-gemma-impact-challenge)
+## ClinicalNote AI Assistant
 
-> 🏥 **AI-powered clinical documentation assistant for the MedGemma Impact Challenge**
+### 👉 [**TRY THE LIVE DEMO NOW!**](https://huggingface.co/spaces/ikemeanthony/hai-def-demo)
 
-Transform physician-patient conversations into structured SOAP notes in seconds, powered by Google's MedGemma.
+> 🏥 AI-powered clinical documentation assistant for the MedGemma Impact Challenge
 
----
+Transform physician-patient conversations into structured SOAP notes in seconds, powered by Google's MedGemma
 
 ## 🎯 Overview
 
@@ -19,6 +13,14 @@ Transform physician-patient conversations into structured SOAP notes in seconds,
 **Solution:** AI-powered documentation assistant that generates structured SOAP notes from conversations.
 
 **Impact:** Saves 1.5-2 hours per physician daily (500+ hours/year, $200K+ value).
+
+---
+
+## 🌐 **Live Demo - Try It Now!**
+
+**👉 [Click here to test the live application](https://huggingface.co/spaces/ikemeanthony/hai-def-demo)**
+
+No installation required! Test the system directly in your browser.
 
 ---
 
@@ -63,7 +65,13 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the demo
+ ## 🎥 Demo & Links
+
+**🌐 Live Demo:** [Try it now!](https://huggingface.co/spaces/ikemeanthony/hai-def-demo)
+
+**🎥 Video Demonstration:** [YouTube](YOUR-YOUTUBE-URL)
+
+**📝 Competition Writeup:** [Kaggle](https://www.kaggle.com/competitions/med-gemma-impact-challenge/writeups)
 python demo.py
 ```
 
