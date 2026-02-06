@@ -1,4 +1,4 @@
-## ClinicalNote AI Assistant
+## ClinicalNote Generator
 
 ### 👉 [**TRY THE LIVE DEMO NOW!**](https://huggingface.co/spaces/ikemeanthony/hai-def-demo)
 
